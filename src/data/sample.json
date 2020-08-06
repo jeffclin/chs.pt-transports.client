@@ -1,0 +1,57 @@
+{
+  "schedule": [
+    {
+      "facility": "SFH",
+      "shift": "1",
+      "startTime": "06:00",
+      "endTime": "14:00",
+      "color": "blue"
+    },
+    {
+      "facility": "SFH",
+      "shift": "2",
+      "startTime": "14:00",
+      "endTime": "22:00",
+      "color": "orange"
+    },
+    {
+      "facility": "SCH",
+      "shift": "1a",
+      "startTime": "16:00",
+      "endTime": "22:00",
+      "color": "blue"
+    }
+  ],
+  "assigned": [
+    {
+      "id": 1,
+      "facility": "SFH",
+      "shift": "1",
+      "date": "2020-04-01",
+      "firstname": "wad1",
+      "lastname": "jaka1",
+      "email": "fullname@junk.com",
+      "cell": "(111) 111-1111"
+    },
+    {
+      "id": 2,
+      "facility": "SCH",
+      "shift": "1",
+      "date": "2020-04-01",
+      "firstname": "wad2",
+      "lastname": "jaka2",
+      "email": "fullname@junk.com",
+      "cell": "111-111-1111"
+    },
+    {
+      "id": 3,
+      "facility": "SFH",
+      "shift": "2",
+      "date": "2020-04-15",
+      "firstname": "wad3",
+      "lastname": "jaka3",
+      "email": "fullname@junk.com",
+      "cell": "111-111-1111"
+    }
+  ]
+}
